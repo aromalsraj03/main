@@ -1,0 +1,9 @@
+.Login {
+    text-align: center;
+    background-image: url("/src/images/login_bg.jpg");
+    min-width: 100vh ;
+    height: 100vh ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10% 0% 0% 0%;
+}

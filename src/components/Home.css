@@ -1,0 +1,45 @@
+.Home {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+}
+
+.Promotion {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    animation: fadeIn 5s;
+}
+
+img {
+    max-width: 100%;
+    max-height:100%;
+  
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+  
+.text {
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.DonationBox {
+    animation: fadeIn 5s;
+    text-align: center;
+    font-size: 20px;
+}
+
+.Donation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.dbg {
+    max-width: 40%;
+    max-height:40%;
+}
